@@ -32,10 +32,10 @@ To run the notebooks locally, ensure you have:
    cd <your-repo-name>
 
 2. Install dependencies:
-**pip install openai jupyter**
+-**pip install openai jupyter**
 
 3. Set up your OpenAI API key:
-**export OPENAI_API_KEY="your_api_key_here"**
+-**export OPENAI_API_KEY="your_api_key_here"**
 
 4. Launch Jupyter:
-**jupyter notebook**
+-**jupyter notebook**
