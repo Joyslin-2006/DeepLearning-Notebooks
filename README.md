@@ -30,3 +30,12 @@ To run the notebooks locally, ensure you have:
    ```bash
    git clone https://github.com/<your-username>/<your-repo-name>.git
    cd <your-repo-name>
+
+2. Install dependencies:
+pip install openai jupyter
+
+3. Set up your OpenAI API key:
+export OPENAI_API_KEY="your_api_key_here"
+
+4. Launch Jupyter:
+jupyter notebook
